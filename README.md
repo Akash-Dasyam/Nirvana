@@ -1,11 +1,12 @@
 # Nirvaana Website Blocker And Analyser
 
-Chrome Extention detects the affected websites and Notifies the users,
-And User can block the website
-and User's can search with our Website about more information about the data Breach
+A Chrome Extention that :
+1.Detects the secureness of websites using Alexa Ranking and notifies the users
+2.Gives the User to block a website until further access
+3.Redirects user to our website which contains in detail the information on any data breach the website has suffered in the past.
 
-the Website link 
-if u right click on the our chrome Extention You Will get a option of the Nirvaana ,Click on that to go to our website
+The Website link: 
+Please right click on our extension if you intend to visit our website.
 
 https://vrgodparticles.000webhostapp.com/searchini.php
 
