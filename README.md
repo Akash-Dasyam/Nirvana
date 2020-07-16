@@ -10,3 +10,7 @@ Please right click on our extension if you intend to visit our website.
 
 https://vrgodparticles.000webhostapp.com/searchini.php
 
+By:\
+Akash D\
+Bheemashankar Jakkani\
+Akhilesh Raichur
