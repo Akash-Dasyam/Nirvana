@@ -12,5 +12,5 @@ https://vrgodparticles.000webhostapp.com/searchini.php
 
 By:\
 Akash D\
-Bheemashankar Jakkani : https://github.com/BheemashankarJakkani\
+Bheemashankar Jakkani : https://github.com/BheemashankarJakkani \
 Akhilesh Raichur
