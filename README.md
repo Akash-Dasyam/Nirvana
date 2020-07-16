@@ -1,6 +1,6 @@
 # Nirvaana Website Blocker And Analyser
 
-A Chrome Extention that :
+A Chrome Extention that :\
 1.Detects the secureness of websites using Alexa Ranking and notifies the users\
 2.Gives the User to block a website until further access\
 3.Redirects user to our website which contains in detail the information on any data breach the website has suffered in the past.
